@@ -32,8 +32,6 @@ Star UML
 5.Execute it.
 
 ### UML DIAGRAMS:
-### DEVELOPED BY : ANUBHARATHI SS
-REGISTER NUMBER : 212223040017
 ### USECASE DIAGRAM
 ![image](https://github.com/23012653/LAB-07-Passport-registration/assets/150777517/76fbdbd0-ecfa-42d9-af33-d3818f21fd09)
 
